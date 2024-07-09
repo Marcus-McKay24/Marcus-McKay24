@@ -21,6 +21,5 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
-[linkedin]: https://www.linkedin.com/in/marcus-mckay-31523925a/
+<h2><a href="https://www.linkedin.com/in/marcus-mckay-31523925a/"> Marcus McKay linkedin</a></h2>
 
